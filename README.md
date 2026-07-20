@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Nice%20to%20see%20you&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=Nice%20to%20see%20you&fontSize=80&fontColor=ffffff)
 ## 👋 About Me
 
 <br>
