@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=Nice%20to%20see%20you&fontSize=70" width="100%"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=white&height=200&section=header&text=Nice%20to%20see%20you&fontSize=80)
 ## 👋 About Me
 
 <br>
