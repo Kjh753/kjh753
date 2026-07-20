@@ -1,16 +1,19 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=Nice%20to%20see%20you&fontSize=80)
+## 👋 About Me
 
-<!--
-**Kjh753/kjh753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+* 🎓 Computer Engineering Student, Hanbat National University (HBNU)
+* 🔬 EcoAI Lab Undergraduate Researcher
+* Areas of Interest: Data Analysis · Anomaly Detection · Autonomous Driving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+## Activities
+
+<br>
+
+| 기간 | 활동명 | 내용 / 활동 | 기관(장소) |
+| :-- | :--- | :--- | :--- |
+| | | | |
