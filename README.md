@@ -87,6 +87,82 @@ Selective Reference Updates
   TODO: YOUR_EMAIL, YOUR_GITHUB_ID 를 실제 값으로 교체 -->
 <h3>Contact</h3>
 
+<!-- 타임라인 3가지 방식 비교용 (프로젝트 루트에 두어 assets/ 상대경로가 그대로 동작)
+     C안은 assets/timeline-rail*.svg 가 저장소에 있어야 표시됩니다. -->
+
+# Timeline 비교
+
+## A. HTML 표 방식 (현재 적용)
+
+<table width="100%">
+<thead>
+<tr><th colspan="2" align="left">2026</th></tr>
+</thead>
+<tbody>
+<tr>
+<td width="150" align="right" valign="top"><b>09.04 ~ 09.06</b> ●</td>
+<td valign="top">
+<b>국제로봇올림피아드(IRO) 운영요원</b><br>
+KAIST<br>
+참가자 안내, 경기 진행 보조 및 현장 운영 지원
+</td>
+</tr>
+<tr>
+<td width="150" align="right" valign="top"><b>08.31</b> ●</td>
+<td valign="top">
+<b>공공데이터 활용 공모전</b><br>
+국립한밭대학교<br>
+대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## B. 미니멀 목록형 (표 없음 · blockquote 세로선)
+
+**2026**
+
+> ● **09.04 ~ 09.06** · **국제로봇올림피아드(IRO) 운영요원**  
+> KAIST  
+> 참가자 안내, 경기 진행 보조 및 현장 운영 지원
+>
+> ● **08.31** · **공공데이터 활용 공모전**  
+> 국립한밭대학교  
+> 대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획
+
+---
+
+## C. 이미지 + HTML 조합 (날짜 | SVG 점·세로선 | 내용)
+
+<table width="100%">
+<thead>
+<tr><th colspan="3" align="left">2026</th></tr>
+</thead>
+<tbody>
+<tr>
+<td width="120" align="right" valign="top"><b>09.04 ~ 09.06</b></td>
+<td width="20" valign="top"><img src="assets/timeline-rail.svg" width="20" height="96" alt=""></td>
+<td valign="top">
+<b>국제로봇올림피아드(IRO) 운영요원</b><br>
+KAIST<br>
+참가자 안내, 경기 진행 보조 및 현장 운영 지원
+</td>
+</tr>
+<tr>
+<td width="120" align="right" valign="top"><b>08.31</b></td>
+<td width="20" valign="top"><img src="assets/timeline-rail-end.svg" width="20" height="96" alt=""></td>
+<td valign="top">
+<b>공공데이터 활용 공모전</b><br>
+국립한밭대학교<br>
+대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/YOUR_GITHUB_ID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
