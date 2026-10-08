@@ -73,52 +73,15 @@ Selective Reference Updates
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=data:image/svg%2Bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2Ij4KPGcgZmlsbD0ibm9uZSI%2BCjxjaXJjbGUgY3g9IjEyOCIgY3k9IjEyOCIgcj0iMTEyIiBmaWxsPSIjZmZmIi8%2BCjxnIHN0cm9rZT0iI2U2ZTZlNiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLXdpZHRoPSIyIj4KPHBhdGggZD0iTTEyOCAxMjhoMTA1TTEyOCAxMjhsNzQuMi03NC4yTTEyOCAxMjhWMjNNMTI4IDEyOCA1My44IDUzLjhNMTI4IDEyOEgyM00xMjggMTI4bC03NC4yIDc0LjJNMTI4IDEyOHYxMDVNMTI4IDEyOGw3NC4yIDc0LjJNMTM5LjcgMTI4YTExLjcgMTEuNyAwIDEgMC0yMy40IDAgMTEuNyAxMS43IDAgMCAwIDIzLjQgMCIvPgo8cGF0aCBkPSJNMTY0IDEyOGEzNiAzNiAwIDEgMC03MiAwIDM2IDM2IDAgMCAwIDcyIDAiLz4KPHBhdGggZD0iTTE4NyAxMjhhNTkgNTkgMCAxIDAtMTE4IDAgNTkgNTkgMCAwIDAgMTE4IDAiLz4KPHBhdGggZD0iTTIxMCAxMjhhODIgODIgMCAxIDAtMTY0IDAgODIgODIgMCAwIDAgMTY0IDAiLz4KPC9nPgo8ZyBvcGFjaXR5PSIuNiI%2BCjxwYXRoIGZpbGw9IiNmZjY4MDAiIGQ9Im0xMDcuOCAzNiAuMS43IDIwLjggOTEuMS0xLjMuNy01OS45LTcxLjgtLjUtLjYuNi0uNUE5NCA5NCAwIDAgMSAxMDcgMzYuMXoiLz4KPHBhdGggZmlsbD0iI2ZmYzQwMCIgZD0ibTU0IDkxLjUuNi4zIDczLjcgMzUuNS0uMiAxLjQtODAuNSAxNC42LS43LjItLjEtLjhhODMgODMgMCAwIDEgNi44LTUwLjV6Ii8%2BCjxwYXRoIGZpbGw9IiMyOWZmY2UiIGQ9Im0xMjcuNyAxMjcuMy43IDEuM0w5MCAxNTUuMmwtLjYuNS0uNC0uNmE0OCA0OCAwIDAgMS0zLjgtNi41bC0uMy0uNy43LS4zeiIvPgo8cGF0aCBmaWxsPSIjN2RmZjdhIiBkPSJtMTI4LjcgMTI3LjkgOS44IDU3LjYuMi43LS44LjJhNTkgNTkgMCAwIDEtMjMtLjdsLS44LS4yLjItLjcgMTMtNTd6Ii8%2BCjxwYXRoIGZpbGw9IiNmZjY4MDAiIGQ9Im0xMjguNSAxMjcuNCA3My43IDU3LjUuNi40LS41LjZhOTQgOTQgMCAwIDEtMTUuNSAxNS44bC0uNi41LS41LS42LTU4LjMtNzMuMXoiLz4KPHBhdGggZmlsbD0iIzAwNGNmZiIgZD0ibTE1MC43IDExOS44LjIuN2EyNCAyNCAwIDAgMSAxLjIgNy41di44aC0yMy42bC4xLTEuOCAyMS40LTd6Ii8%2BCjxwYXRoIGZpbGw9IiNjZWZmMjkiIGQ9Im0xNTIuMiA2MS40LjcuMmE3MSA3MSAwIDAgMSAxOS4zIDExbC42LjUtLjUuNS00My43IDU0LjktMS4zLS44IDI0LjYtNjUuNnoiLz4KPC9nPgo8ZyBmaWxsPSIjMDAwIiBvcGFjaXR5PSIuNyI%2BCjxwYXRoIGQ9Im0xMDcuOCAzNiAuMS43IDIwLjggOTEuMS0xLjMuNy01OS45LTcxLjgtLjUtLjYuNi0uNUE5NCA5NCAwIDAgMSAxMDcgMzYuMXptLTEuMiAxLjctLjMuMWE5MyA5MyAwIDAgMC0zNy43IDE5bC41LS41IDU3LjUgNjguOHoiLz4KPHBhdGggZD0ibTU0IDkxLjUuNi4zIDczLjcgMzUuNS0uMiAxLjQtODAuNSAxNC42LS43LjItLjEtLjhhODMgODMgMCAwIDEgNi44LTUwLjV6bS42IDJ2LjJhODEgODEgMCAwIDAtNi40IDQ4Ljh2LS44bDc3LjQtMTR6Ii8%2BCjxwYXRoIGQ9Im0xMjcuNyAxMjcuMy43IDEuM0w5MCAxNTUuMmwtLjYuNS0uNC0uNmE0OCA0OCAwIDAgMS0zLjgtNi41bC0uMy0uNy43LS4zem0tOCA1LjVMODcgMTQ4LjZ2LjJsLjkgMS42LjQuNyAyIDMuMS0uNC0uNnoiLz4KPHBhdGggZD0ibTEyOC43IDEyOC45IDkuOCA1Ny42LjIuNy0uOC4yYTU5IDU5IDAgMCAxLTIzLS43bC0uOC0uMi4yLS43IDEzLTU3em0tLjggNC0xMiA1Mi41aC4ycTQuNiAxIDkuMyAxLjJoMXE1LjcuMyAxMS4zLS43aC0uOHoiLz4KPHBhdGggZD0ibTEyOC41IDEyNy40IDczLjcgNTcuNS42LjQtLjUuNmE5NCA5NCAwIDAgMS0xNS41IDE1LjhsLS42LjUtLjUtLjYtNTguMy03My4xem00IDUgNTQgNjcuNi4zLS4ycTMuMy0yLjcgNi4zLTUuN2wuOS0uOXEzLjgtMy45IDcuMi04LjJsLS41LjZ6Ii8%2BCjxwYXRoIGQ9Im0xNTAuNyAxMTkuOC4yLjdhMjQgMjQgMCAwIDEgMS4yIDcuNXYuOEgxMjhsLS4yLTEuNUwxNTAgMTIwem0tMSAyLTE3IDUuNGgxOGwtLjEtLjRxMC0uOS0uMi0xLjh2LS41bC0uNS0yLjR6Ii8%2BCjxwYXRoIGQ9Im0xNTIuMiA2MS40LjcuMmE3MSA3MSAwIDAgMSAxOS4zIDExbC42LjUtLjUuNS00My43IDU0LjktMS4zLS44IDI0LjYtNjUuNnptLjkgMi0yMi43IDYwLjQgNDAuMy01MC41LS4yLS4yYTY5IDY5IDAgMCAwLTcuNC01bC0uOS0uNGE2OSA2OSAwIDAgMC05LjgtNC43eiIvPgo8L2c%2BCjxjaXJjbGUgY3g9IjEyOCIgY3k9IjEyOCIgcj0iMyIgZmlsbD0iIzRjNGM0YyIvPgo8cGF0aCBzdHJva2U9IiMxMTU1N2MiIHN0cm9rZS13aWR0aD0iNCIgZD0iTTIzMyAxMjhhMTA1IDEwNSAwIDEgMC0yMTAgMCAxMDUgMTA1IDAgMCAwIDIxMCAwIi8%2BCjwvZz4KPC9zdmc%2BCg%3D%3D" alt="Matplotlib">
 </p>
 
-<!-- ========== RESEARCH TIMELINE ==========
-  왼쪽 열(날짜+●) 와 오른쪽 열(내용) 사이의 표 테두리가 세로선 역할을 합니다.
-  새 항목은 <tbody> 맨 위에 추가 (최신순). On- & Off-Campus Activities 와 동일 구조 -->
-<h3>Research Timeline</h3>
+<!-- ========== ACTIVITY OVERVIEW (임시 제목 · 시안) ==========
+  전체 활동 3열 요약표. 필요 없으면 이 블록 전체를 삭제하세요. -->
+<h3>Activity Overview</h3>
 
-<table width="100%">
-<thead>
-<tr><th colspan="2" align="left">2026</th></tr>
-</thead>
-<tbody>
-<tr>
-<td width="150" align="right" valign="top"><b>11.19 ~ 11.20</b> ●</td>
-<td valign="top">
-<b>한국통신학회 추계종합학술발표회(예정)</b><br>
-Q-learning 기반 선택적 정상 기준선 갱신을 통한 금속 산업 전력 이상탐지
-</td>
-</tr>
-</tbody>
-</table>
-
-<!-- ========== ON- & OFF-CAMPUS ACTIVITIES ========== -->
-<h3>On- &amp; Off-Campus Activities</h3>
-
-<table width="100%">
-<thead>
-<tr><th colspan="2" align="left">2026</th></tr>
-</thead>
-<tbody>
-<tr>
-<td width="150" align="right" valign="top"><b>09.04 ~ 09.06</b> ●</td>
-<td valign="top">
-<b>국제로봇올림피아드(IRO) 운영요원</b><br>
-KAIST<br>
-참가자 안내, 경기 진행 보조 및 현장 운영 지원
-</td>
-</tr>
-<tr>
-<td width="150" align="right" valign="top"><b>08.31</b> ●</td>
-<td valign="top">
-<b>공공데이터 활용 공모전</b><br>
-국립한밭대학교<br>
-대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획
-</td>
-</tr>
-</tbody>
-</table>
+| 기간 | 활동 | 내용 |
+|:--|:--|:--|
+| 2026.11.19~11.20 | 한국통신학회 추계종합학술발표회(예정) | Q-learning 기반 선택적 정상 기준선 갱신을 통한 금속 산업 전력 이상탐지 |
+| 2026.09.04~09.06 | 국제로봇올림피아드(IRO) | 운영요원 · 참가자 안내, 경기 진행 보조 및 현장 운영 지원 |
+| 2026.08.31 | 공공데이터 활용 공모전 | 대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획 |
 
 <!-- ========== CONTACT ==========
   TODO: YOUR_EMAIL, YOUR_GITHUB_ID 를 실제 값으로 교체 -->
@@ -126,6 +89,7 @@ KAIST<br>
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/YOUR_GITHUB_ID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+
 
 
 
