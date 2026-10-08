@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-09",
+  "github_markdown_api": {
+    "http_status": 200,
+    "pictures_preserved": 4,
+    "sources_preserved": 10,
+    "percentage_width_preserved": 4,
+    "viewport_and_theme_conditions_preserved": true
+  },
+  "live_github_profile_verified": false,
+  "local_render_source": "GitHub Markdown API + local community GitHub CSS",
+  "viewport_widths": [
+    320,
+    390,
+    600,
+    601,
+    767,
+    768,
+    1000
+  ],
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "rendered_combinations": 14,
+  "all_images_loaded": true,
+  "horizontal_overflow": false,
+  "svg_text_canvas_clipping": false,
+  "theme_and_viewport_source_selection_correct": true,
+  "svg_assets": 27,
+  "all_relative_paths_exist": true,
+  "unused_svg_assets": 0,
+  "forbidden_readme_html_or_inline_css": false,
+  "svg_script_style_foreignobject_animation": false,
+  "section_order_matches": true,
+  "exact_activity_names_and_descriptions_present": true,
+  "contact_placeholders_are_unlinked": true,
+  "external_runtime_image_dependencies": 0,
+  "limitations": [
+    "Local CSS is a community approximation, not the live GitHub profile UI.",
+    "GitHub theme controller and image proxy behavior remain unverified on the actual profile.",
+    "SVG content is not directly selectable as README body text.",
+    "Responsive selection is based on viewport, not container width."
+  ]
+}
