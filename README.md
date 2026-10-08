@@ -7,7 +7,6 @@
   [Checkered]
   <img src="https://capsule-render.vercel.app/api?height=220&section=header&color=0:4F46E5,100:8B5CF6&text=Nice%20to%20see%20you!&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=WELCOME%20TO%20MY%20GITHUB%20PROFILE&descSize=16&descAlignY=62&type=checkered" alt="Nice to see you! - WELCOME TO MY GITHUB PROFILE" width="100%">
 -->
-<img src="https://capsule-render.vercel.app/api?height=220&section=header&color=0:4F46E5,100:8B5CF6&text=Nice%20to%20see%20you!&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=WELCOME%20TO%20MY%20GITHUB%20PROFILE&descSize=16&descAlignY=62&type=blur" alt="Nice to see you! - WELCOME TO MY GITHUB PROFILE" width="100%">
 
 <div align="center">
 
