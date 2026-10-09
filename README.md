@@ -13,8 +13,8 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tbody>
 <tr>
 <td colspan="2" width="6000" height="116" valign="middle">
-<h3><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</h3>
-<div>• <strong>Hanbat National University</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
+<h3><img src="assets/icon-user-round.svg" width="20" height="20" align="top" alt=""> Profile</h3>
+<div>• <strong>Hanbat National University</strong><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
 <div><br></div>
 </td>
 <td rowspan="2" width="4000" valign="middle">
