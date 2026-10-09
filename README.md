@@ -5,23 +5,23 @@
   </picture>
 </p>
 
-## <img src="assets/icon-user-round-white.svg" width="20" height="20" alt=""> About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-user-round-white.svg"><img src="assets/icon-user-round-light.svg" width="20" height="20" alt=""></picture> About Me
 
 My goal is to bridge **AI research and real-world applications** through data-driven problem solving.
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="6000" valign="top">
-<h3><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</h3>
-<p>• <strong>Hanbat National University</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Computer Engineering · 2nd-year Undergraduate<br><br></p>
+<td colspan="2" width="6000" height="122" valign="middle">
+<p><strong><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</strong></p>
+<div>• <strong>Hanbat National University</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
 </td>
-<td rowspan="2" width="4000" valign="top">
-<h3><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</h3>
+<td rowspan="2" width="4000" valign="middle">
+<p><strong><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</strong></p>
 <p>&emsp;- <strong>Industrial Time-Series Anomaly Detection</strong></p>
 <p>&emsp;- Reinforcement Learning</p>
 <p>&emsp;- Selective Reference Updates</p>
-<p>&emsp;- AI-based Stage Control</p>
+<div>&emsp;- AI-based Stage Control</div>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-code-xml-white.svg" width="20" height="20" alt=""> Tech Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-code-xml-white.svg"><img src="assets/icon-code-xml-light.svg" width="20" height="20" alt=""></picture> Tech Stack
 
 ### Languages
 
@@ -64,7 +64,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-microscope-white.svg" width="20" height="20" alt=""> Research Timeline
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-microscope-white.svg"><img src="assets/icon-microscope-light.svg" width="20" height="20" alt=""></picture> Research Timeline
 
 ### 2026
 
@@ -75,7 +75,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-briefcase-business-white.svg" width="20" height="20" alt=""> Experience & Activities
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-briefcase-business-white.svg"><img src="assets/icon-briefcase-business-light.svg" width="20" height="20" alt=""></picture> Experience & Activities
 
 ### 2026
 
@@ -96,50 +96,50 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-list-white.svg" width="20" height="20" alt=""> Activity Overview
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-list-white.svg"><img src="assets/icon-list-light.svg" width="20" height="20" alt=""></picture> Activity Overview
 
 ### 2026
 
 <table>
 <thead>
 <tr>
-<th width="1200"><sub>기간</sub></th>
-<th width="2900"><sub>활동</sub></th>
-<th width="3600"><sub>내용</sub></th>
-<th width="2300"><sub>장소</sub></th>
+<th width="1200">기간</th>
+<th width="2900">활동</th>
+<th width="3600">내용</th>
+<th width="2300">장소</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><sub>11.19–11.20</sub></td>
-<td><sub>한국통신학회 추계종합학술발표회(예정)</sub></td>
-<td><sub>Q-learning 기반 금속 산업 전력 이상탐지 연구</sub></td>
-<td><sub>강원도 홍천 소노캄 비발디파크</sub></td>
+<td>11.19–11.20</td>
+<td>한국통신학회 추계종합학술발표회(예정)</td>
+<td>Q-learning 기반 금속 산업 전력 이상탐지 연구</td>
+<td>강원도 홍천 소노캄 비발디파크</td>
 </tr>
 <tr>
-<td><sub>09.04–09.06</sub></td>
-<td><sub>국제로봇올림피아드(IRO) 운영요원</sub></td>
-<td><sub>참가자 안내·경기 진행 보조·현장 운영 지원</sub></td>
-<td><sub>KAIST</sub></td>
+<td>09.04–09.06</td>
+<td>국제로봇올림피아드(IRO) 운영요원</td>
+<td>참가자 안내·경기 진행 보조·현장 운영 지원</td>
+<td>KAIST</td>
 </tr>
 <tr>
-<td><sub>08.31</sub></td>
-<td><sub>공공데이터 활용 공모전</sub></td>
-<td><sub>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</sub></td>
-<td><sub>국립한밭대학교</sub></td>
+<td>08.31</td>
+<td>공공데이터 활용 공모전</td>
+<td>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</td>
+<td>국립한밭대학교</td>
 </tr>
 <tr>
-<td><sub>07.01–현재</sub></td>
-<td><sub>EcoAI Lab 학부생</sub></td>
-<td><sub>학부 연구생으로 연구 활동 참여</sub></td>
-<td><sub>국립한밭대학교</sub></td>
+<td>07.01–현재</td>
+<td>EcoAI Lab 학부생</td>
+<td>학부 연구생으로 연구 활동 참여</td>
+<td>국립한밭대학교</td>
 </tr>
 </tbody>
 </table>
 
 <br>
 
-## <img src="assets/icon-mail-white.svg" width="20" height="20" alt=""> Contact
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-mail-white.svg"><img src="assets/icon-mail-light.svg" width="20" height="20" alt=""></picture> Contact
 
 <p align="left">
   Email · <a href="mailto:20251779@edu.hanbat.ac.kr">20251779@edu.hanbat.ac.kr</a>
