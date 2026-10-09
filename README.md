@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-## <img src="assets/icon-user-round.svg" width="20" height="20" alt=""> About Me
+## <img src="assets/icon-user-round-white.svg" width="20" height="20" alt=""> About Me
 
 My goal is to bridge **AI research and real-world applications** through data-driven problem solving.
 
@@ -14,23 +14,23 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tr>
 <td colspan="2" width="6000" valign="top">
 <h3><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</h3>
-<p>• <strong>Hanbat National University</strong><br>&emsp;Computer Engineering · 2nd-year Undergraduate<br><br></p>
+<p>• <strong>Hanbat National University</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Computer Engineering · 2nd-year Undergraduate<br><br></p>
 </td>
 <td rowspan="2" width="4000" valign="top">
 <h3><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</h3>
-<p>&emsp;<strong>Industrial Time-Series Anomaly Detection</strong></p>
-<p>&emsp;Reinforcement Learning</p>
-<p>&emsp;Selective Reference Updates</p>
-<p>&emsp;AI-based Stage Control</p>
+<p>&emsp;- <strong>Industrial Time-Series Anomaly Detection</strong></p>
+<p>&emsp;- Reinforcement Learning</p>
+<p>&emsp;- Selective Reference Updates</p>
+<p>&emsp;- AI-based Stage Control</p>
 </td>
 </tr>
 <tr>
 <td width="3500" valign="middle">
-<p>• <strong>EcoAI Lab</strong><br>&emsp;Undergraduate Researcher</p>
+<p>• <strong>EcoAI Lab</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Undergraduate Researcher</p>
 </td>
 <td width="2500" align="center" valign="middle">
-<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="220" alt="EcoAI Lab"></a></p>
-<sub><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></sub>
+<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="205" alt="EcoAI Lab"></a></p>
+<small><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></small>
 </td>
 </tr>
 </tbody>
@@ -43,7 +43,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-code-xml.svg" width="20" height="20" alt=""> Tech Stack
+## <img src="assets/icon-code-xml-white.svg" width="20" height="20" alt=""> Tech Stack
 
 ### Languages
 
@@ -64,7 +64,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Research Timeline
+## <img src="assets/icon-microscope-white.svg" width="20" height="20" alt=""> Research Timeline
 
 ### 2026
 
@@ -75,7 +75,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-briefcase-business.svg" width="20" height="20" alt=""> Experience & Activities
+## <img src="assets/icon-briefcase-business-white.svg" width="20" height="20" alt=""> Experience & Activities
 
 ### 2026
 
@@ -91,7 +91,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-list.svg" width="20" height="20" alt=""> Activity Overview
+## <img src="assets/icon-list-white.svg" width="20" height="20" alt=""> Activity Overview
 
 ### 2026
 
@@ -128,7 +128,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <img src="assets/icon-mail.svg" width="20" height="20" alt=""> Contact
+## <img src="assets/icon-mail-white.svg" width="20" height="20" alt=""> Contact
 
 <p align="left">
   Email · <a href="mailto:20251779@edu.hanbat.ac.kr">20251779@edu.hanbat.ac.kr</a>
