@@ -14,7 +14,8 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tr>
 <td colspan="2" width="6000" height="116" valign="middle">
 <h2>🎓 Profile</h2>
-<div>• <strong>Hanbat National University</strong><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
+<h3>• Hanbat National University</h3>
+<div>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
 <div><br>&emsp;<strong>🔎 Explore my research &amp; activities</strong><br>&emsp;<a href="https://github.com/Kjh753/Portfolio"><img src="assets/repository.svg" width="104" height="24" alt="Repository — 활동 기록 저장소"></a></div>
 <div><br></div>
 </td>
@@ -29,7 +30,9 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 </tr>
 <tr>
 <td width="3500" valign="middle">
-<p>• <strong>EcoAI Lab</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Undergraduate Researcher</p>
+<h3>• EcoAI Lab</h3>
+<div>&emsp;Undergraduate Researcher</div>
+<div><br></div>
 </td>
 <td width="2500" align="center" valign="middle">
 <p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="170" alt="EcoAI Lab"></a></p>
