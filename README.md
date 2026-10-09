@@ -13,12 +13,13 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tbody>
 <tr>
 <td colspan="2" width="6000" height="116" valign="middle">
-<h3><img src="assets/icon-user-round.svg" width="20" height="20" align="top" alt=""> Profile</h3>
+<h3>🎓 Profile</h3>
 <div>• <strong>Hanbat National University</strong><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
+<div><br>&emsp;<strong>🔎 Explore my research &amp; activities</strong><br>&emsp;<a href="https://github.com/Kjh753/Portfolio"><img src="assets/repository.svg" width="104" height="24" alt="Repository — 활동 기록 저장소"></a></div>
 <div><br></div>
 </td>
 <td rowspan="2" width="4000" valign="middle">
-<h3><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</h3>
+<h3>🔬 Current Focus</h3>
 <p>&emsp;- <strong>Industrial Time-Series Anomaly Detection</strong></p>
 <p>&emsp;- Reinforcement Learning</p>
 <p>&emsp;- Selective Reference Updates</p>
