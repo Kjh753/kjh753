@@ -13,15 +13,17 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tbody>
 <tr>
 <td colspan="2" width="6000" height="116" valign="middle">
-<p><strong><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</strong></p>
+<h3><img src="assets/icon-user-round.svg" width="20" height="20" alt=""> Profile</h3>
 <div>• <strong>Hanbat National University</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Computer Engineering · 2nd-year Undergraduate</div>
+<div><br></div>
 </td>
 <td rowspan="2" width="4000" valign="middle">
-<p><strong><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</strong></p>
+<h3><img src="assets/icon-microscope.svg" width="20" height="20" alt=""> Current Focus</h3>
 <p>&emsp;- <strong>Industrial Time-Series Anomaly Detection</strong></p>
 <p>&emsp;- Reinforcement Learning</p>
 <p>&emsp;- Selective Reference Updates</p>
 <div>&emsp;- AI-based Stage Control</div>
+<div><br></div>
 </td>
 </tr>
 <tr>
@@ -144,4 +146,3 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <p align="left">
   Email · <a href="mailto:20251779@edu.hanbat.ac.kr">20251779@edu.hanbat.ac.kr</a>
 </p>
-
