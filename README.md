@@ -68,7 +68,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 ### 2026
 
-- `11.19 – 11.20` **한국통신학회 추계종합학술발표회(예정)**  
+- `11.19 – 11.20` **한국통신학회 추계종합학술발표회(예정)** [📄](https://github.com/Kjh753/Portfolio/tree/main/2026/1119_1120_KICS "활동 소개 및 자료")  
   <sub>강원도 홍천 소노캄 비발디파크</sub>
 
   > Q-learning 기반 선택적 정상 기준선 갱신을 통한 금속 산업 전력 이상탐지
@@ -79,7 +79,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 ### 2026
 
-- `09.04 – 09.06` **국제로봇올림피아드(IRO) 운영요원**  
+- `09.04 – 09.06` **국제로봇올림피아드(IRO) 운영요원** [📄](https://github.com/Kjh753/Portfolio/tree/main/2026/0904_0906_IRO "활동 소개 및 자료")  
   <sub>KAIST</sub>
 
   > 참가자 안내, 경기 진행 보조 및 현장 운영 지원
