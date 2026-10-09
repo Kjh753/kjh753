@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220">
+        <rect width="854" height="220" rx="16" fill="#0D1117" /><defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#4F46E5" /><stop offset="100%" stop-color="#8B5CF6" />
+              </linearGradient>
+            </defs>
+        
+      <defs>
+        <filter id="blurFilter">
+          <feGaussianBlur stdDeviation="12" />
+        </filter>
+      </defs>
+      
+          <circle cx="427.0" cy="110.0" r="55" fill="url(#linear)" opacity="0.2" filter="url(#blurFilter)">
+            </circle>
+        
+          <circle cx="384.3" cy="110.0" r="66" fill="url(#linear)" opacity="0.3" filter="url(#blurFilter)">
+            </circle>
+        
+          <circle cx="512.4" cy="110.0" r="61.60000000000001" fill="url(#linear)" opacity="0.15" filter="url(#blurFilter)">
+            </circle>
+        
+    
+         <text text-anchor="middle" dominant-baseline="middle" x="427.0" y="92.4" font-size="48" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#FFFFFF">Nice to see you!</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="427.0" y="136.4" font-size="16" font-weight="500" font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#FFFFFF">WELCOME TO MY GITHUB PROFILE</text>
+      </svg>
