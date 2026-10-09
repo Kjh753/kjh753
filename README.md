@@ -29,8 +29,8 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <p>• <strong>EcoAI Lab</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Undergraduate Researcher</p>
 </td>
 <td width="2500" align="center" valign="middle">
-<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="195" alt="EcoAI Lab"></a></p>
-<small><small><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></small></small>
+<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="180" alt="EcoAI Lab"></a></p>
+<sub><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></sub>
 </td>
 </tr>
 </tbody>
@@ -103,36 +103,36 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <table>
 <thead>
 <tr>
-<th width="1200"><small><small>기간</small></small></th>
-<th width="2900"><small><small>활동</small></small></th>
-<th width="3600"><small><small>내용</small></small></th>
-<th width="2300"><small><small>장소</small></small></th>
+<th width="1200"><sub>기간</sub></th>
+<th width="2900"><sub>활동</sub></th>
+<th width="3600"><sub>내용</sub></th>
+<th width="2300"><sub>장소</sub></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><small><small>11.19–11.20</small></small></td>
-<td><small><small>한국통신학회 추계종합학술발표회(예정)</small></small></td>
-<td><small><small>Q-learning 기반 금속 산업 전력 이상탐지 연구</small></small></td>
-<td><small><small>강원도 홍천 소노캄 비발디파크</small></small></td>
+<td><sub>11.19–11.20</sub></td>
+<td><sub>한국통신학회 추계종합학술발표회(예정)</sub></td>
+<td><sub>Q-learning 기반 금속 산업 전력 이상탐지 연구</sub></td>
+<td><sub>강원도 홍천 소노캄 비발디파크</sub></td>
 </tr>
 <tr>
-<td><small><small>09.04–09.06</small></small></td>
-<td><small><small>국제로봇올림피아드(IRO) 운영요원</small></small></td>
-<td><small><small>참가자 안내·경기 진행 보조·현장 운영 지원</small></small></td>
-<td><small><small>KAIST</small></small></td>
+<td><sub>09.04–09.06</sub></td>
+<td><sub>국제로봇올림피아드(IRO) 운영요원</sub></td>
+<td><sub>참가자 안내·경기 진행 보조·현장 운영 지원</sub></td>
+<td><sub>KAIST</sub></td>
 </tr>
 <tr>
-<td><small><small>08.31</small></small></td>
-<td><small><small>공공데이터 활용 공모전</small></small></td>
-<td><small><small>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</small></small></td>
-<td><small><small>국립한밭대학교</small></small></td>
+<td><sub>08.31</sub></td>
+<td><sub>공공데이터 활용 공모전</sub></td>
+<td><sub>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</sub></td>
+<td><sub>국립한밭대학교</sub></td>
 </tr>
 <tr>
-<td><small><small>07.01–현재</small></small></td>
-<td><small><small>EcoAI Lab 학부생</small></small></td>
-<td><small><small>학부 연구생으로 연구 활동 참여</small></small></td>
-<td><small><small>국립한밭대학교</small></small></td>
+<td><sub>07.01–현재</sub></td>
+<td><sub>EcoAI Lab 학부생</sub></td>
+<td><sub>학부 연구생으로 연구 활동 참여</sub></td>
+<td><sub>국립한밭대학교</sub></td>
 </tr>
 </tbody>
 </table>
