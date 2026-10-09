@@ -79,7 +79,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 ### 2026
 
-- `09.04 – 09.06` **국제로봇올림피아드(IRO) 운영요원** [📄](https://github.com/Kjh753/Portfolio/tree/main/2026/0904_0906_IRO "활동 소개 및 자료")  
+- `09.04 – 09.06` **국제로봇올림피아드(IRO) 진행요원** [📄](https://github.com/Kjh753/Portfolio/tree/main/2026/0904_0906_IRO "활동 소개 및 자료")  
   <sub>KAIST</sub>
 
   > 참가자 안내, 경기 진행 보조 및 현장 운영 지원
@@ -118,7 +118,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 </tr>
 <tr>
 <td><sub>09.04–09.06</sub></td>
-<td><sub>국제로봇올림피아드(IRO) 운영요원</sub></td>
+<td><sub>국제로봇올림피아드(IRO) 진행요원</sub></td>
 <td><sub>참가자 안내·경기 진행 보조·현장 운영 지원</sub></td>
 <td><sub>KAIST</sub></td>
 </tr>
