@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-user-round-white.svg"><img src="assets/icon-user-round-light.svg" width="20" height="20" alt=""></picture> About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-user-round-white.svg"><img src="assets/icon-user-round-light.svg" width="20" height="20" alt=""></picture> **About Me**
 
 My goal is to bridge **AI research and real-world applications** through data-driven problem solving.
 
@@ -43,7 +43,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-code-xml-white.svg"><img src="assets/icon-code-xml-light.svg" width="20" height="20" alt=""></picture> Tech Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-code-xml-white.svg"><img src="assets/icon-code-xml-light.svg" width="20" height="20" alt=""></picture> **Tech Stack**
 
 ### Languages
 
@@ -64,7 +64,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-microscope-white.svg"><img src="assets/icon-microscope-light.svg" width="20" height="20" alt=""></picture> Research Timeline
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-microscope-white.svg"><img src="assets/icon-microscope-light.svg" width="20" height="20" alt=""></picture> **Research Timeline**
 
 ### 2026
 
@@ -75,12 +75,12 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-briefcase-business-white.svg"><img src="assets/icon-briefcase-business-light.svg" width="20" height="20" alt=""></picture> Experience & Activities
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-briefcase-business-white.svg"><img src="assets/icon-briefcase-business-light.svg" width="20" height="20" alt=""></picture> **Experience & Activities**
 
 ### 2026
 
 - `09.04 – 09.06` **국제로봇올림피아드(IRO) 진행요원** [📄](https://github.com/Kjh753/Portfolio/tree/main/2026/0904_0906_IRO "활동 소개 및 자료")  
-  <sub>KAIST</sub>
+  <sub>KAIST 학술문화관(E9) 정근모홀&amp;존해너홀</sub>
 
   > 참가자 안내, 경기 진행 보조 및 현장 운영 지원
 
@@ -96,7 +96,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-list-white.svg"><img src="assets/icon-list-light.svg" width="20" height="20" alt=""></picture> Activity Overview
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-list-white.svg"><img src="assets/icon-list-light.svg" width="20" height="20" alt=""></picture> **Activity Overview**
 
 ### 2026
 
@@ -120,7 +120,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <td><sub>09.04–09.06</sub></td>
 <td><sub>국제로봇올림피아드(IRO) 진행요원</sub></td>
 <td><sub>참가자 안내·경기 진행 보조·현장 운영 지원</sub></td>
-<td><sub>KAIST</sub></td>
+<td><sub>KAIST 학술문화관(E9) 정근모홀&amp;존해너홀</sub></td>
 </tr>
 <tr>
 <td><sub>08.31</sub></td>
@@ -139,7 +139,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-mail-white.svg"><img src="assets/icon-mail-light.svg" width="20" height="20" alt=""></picture> Contact
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-mail-white.svg"><img src="assets/icon-mail-light.svg" width="20" height="20" alt=""></picture> **Contact**
 
 <p align="left">
   Email · <a href="mailto:20251779@edu.hanbat.ac.kr">20251779@edu.hanbat.ac.kr</a>
