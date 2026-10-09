@@ -29,8 +29,8 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <p>• <strong>EcoAI Lab</strong><img src="assets/line-gap.svg" width="1" height="28" align="top" alt=""><br>&emsp;Undergraduate Researcher</p>
 </td>
 <td width="2500" align="center" valign="middle">
-<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="205" alt="EcoAI Lab"></a></p>
-<small><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></small>
+<p><br><a href="https://sites.google.com/view/ecoai/introduction"><img src="assets/ecoai-lab.svg" width="195" alt="EcoAI Lab"></a></p>
+<small><small><a href="https://sites.google.com/view/ecoai/introduction">Lab Website</a></small></small>
 </td>
 </tr>
 </tbody>
@@ -89,6 +89,11 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 
   > 대덕특구 공공기술의 사업화를 위한 기술 탐색 및 청년 창업 아이디어 추천 플랫폼 기획
 
+- `07.01 – 현재` **EcoAI Lab 학부생**  
+  <sub>국립한밭대학교</sub>
+
+  > 학부 연구생으로 연구 활동 참여
+
 <br>
 
 ## <img src="assets/icon-list-white.svg" width="20" height="20" alt=""> Activity Overview
@@ -98,30 +103,36 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <table>
 <thead>
 <tr>
-<th width="1200"><small>기간</small></th>
-<th width="2900"><small>활동</small></th>
-<th width="3600"><small>내용</small></th>
-<th width="2300"><small>장소</small></th>
+<th width="1200"><small><small>기간</small></small></th>
+<th width="2900"><small><small>활동</small></small></th>
+<th width="3600"><small><small>내용</small></small></th>
+<th width="2300"><small><small>장소</small></small></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><small>11.19–11.20</small></td>
-<td><small>한국통신학회 추계종합학술발표회(예정)</small></td>
-<td><small>Q-learning 기반 금속 산업 전력 이상탐지 연구</small></td>
-<td><small>강원도 홍천 소노캄 비발디파크</small></td>
+<td><small><small>11.19–11.20</small></small></td>
+<td><small><small>한국통신학회 추계종합학술발표회(예정)</small></small></td>
+<td><small><small>Q-learning 기반 금속 산업 전력 이상탐지 연구</small></small></td>
+<td><small><small>강원도 홍천 소노캄 비발디파크</small></small></td>
 </tr>
 <tr>
-<td><small>09.04–09.06</small></td>
-<td><small>국제로봇올림피아드(IRO) 운영요원</small></td>
-<td><small>참가자 안내·경기 진행 보조·현장 운영 지원</small></td>
-<td><small>KAIST</small></td>
+<td><small><small>09.04–09.06</small></small></td>
+<td><small><small>국제로봇올림피아드(IRO) 운영요원</small></small></td>
+<td><small><small>참가자 안내·경기 진행 보조·현장 운영 지원</small></small></td>
+<td><small><small>KAIST</small></small></td>
 </tr>
 <tr>
-<td><small>08.31</small></td>
-<td><small>공공데이터 활용 공모전</small></td>
-<td><small>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</small></td>
-<td><small>국립한밭대학교</small></td>
+<td><small><small>08.31</small></small></td>
+<td><small><small>공공데이터 활용 공모전</small></small></td>
+<td><small><small>공공기술 탐색·청년 창업 아이디어 추천 플랫폼 기획</small></small></td>
+<td><small><small>국립한밭대학교</small></small></td>
+</tr>
+<tr>
+<td><small><small>07.01–현재</small></small></td>
+<td><small><small>EcoAI Lab 학부생</small></small></td>
+<td><small><small>학부 연구생으로 연구 활동 참여</small></small></td>
+<td><small><small>국립한밭대학교</small></small></td>
 </tr>
 </tbody>
 </table>
