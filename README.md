@@ -31,7 +31,7 @@ My goal is to bridge **AI research and real-world applications** through data-dr
 <tr>
 <td width="3500" valign="middle">
 <h3>• EcoAI Lab</h3>
-<div>&emsp;Undergraduate Researcher</div>
+<div>&emsp;Undergraduate Student</div>
 <div><br></div>
 </td>
 <td width="2500" align="center" valign="middle">
