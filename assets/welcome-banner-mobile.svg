@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-label="Welcome — To my GitHub profile"><style>
 @keyframes gradient-left{0%,100%{stop-color:#243B64}33.333%{stop-color:#563B75}66.667%{stop-color:#205457}}
 @keyframes gradient-right{0%,100%{stop-color:#654478}33.333%{stop-color:#206067}66.667%{stop-color:#345481}}
-.gradient-left{animation:gradient-left 30s ease-in-out infinite}.gradient-right{animation:gradient-right 30s ease-in-out infinite}
+.gradient-left{animation:gradient-left 60s ease-in-out infinite}.gradient-right{animation:gradient-right 60s ease-in-out infinite}
 @keyframes arrive{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
 @keyframes glow{0%,100%{transform:translateX(-35px);opacity:.65}50%{transform:translateX(35px);opacity:1}}
 @keyframes line{from{stroke-dashoffset:240;opacity:0}to{stroke-dashoffset:0;opacity:.65}}
